@@ -1,14 +1,14 @@
 ![ai-animated](https://github.com/user-attachments/assets/f61748b4-0578-42a2-988b-f2f5410ca7ca)
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate AI/ML Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrvgBpdX8Bj20mkj_O0RDW2iNPRgGM4da2Q&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonukumar047&label=Profile%20views&color=0e75b6&style=flat" alt="sonukumar047" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://sonukumar047.github.io/](https://sonukumar047.github.io/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java**
+- 💬 Ask me about **Python, RAG, Generative AI, Fine-Tunning, AI Agent, Agentic AI, HTML, CSS, JavaScript, Java**
 
 - 📫 How to reach me **sonuhits047@gmail.com**
 
