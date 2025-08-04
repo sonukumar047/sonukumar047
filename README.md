@@ -1,4 +1,5 @@
 ![logo](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
+![ai-animated](https://github.com/user-attachments/assets/f61748b4-0578-42a2-988b-f2f5410ca7ca)
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
